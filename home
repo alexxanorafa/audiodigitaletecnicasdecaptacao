@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Áudio e Gravação Digital</title>
+    <style>
+        /* Estilos CSS para a página */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        /* ... Outros estilos ... */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Áudio e Gravação Digital</h1>
+        <p>O áudio digital é a representação numérica de sinais sonoros. Ele permite a gravação, reprodução e processamento de som usando dispositivos eletrônicos.</p>
+
+        <h2>1. Sample Rate</h2>
+        <ul>
+            <li><strong>O que é sample rate?</strong> É a frequência com que um sinal de áudio é digitalizado. Analogia com a captura de frames em um filme.</li>
+            <li><strong>Frequências comuns:</strong> Exemplos incluem 44.1 kHz, 48 kHz, 96 kHz e 192 kHz.</li>
+            <li><strong>Impacto na qualidade:</strong> Taxas de amostragem mais altas geralmente resultam em melhor qualidade de áudio.</li>
+            <li><strong>Demonstração prática:</strong> Vamos ouvir exemplos de diferentes frequências de sample rate.</li>
+        </ul>
+
+        <h2>2. Bit Rate</h2>
+        <ul>
+            <li><strong>O que é bit rate?</strong> É a quantidade de dados transmitidos por segundo em um arquivo de áudio.</li>
+            <li><strong>Bit rates comuns:</strong> MP3 (128 kbps, 320 kbps), AAC (256 kbps), FLAC (sem perdas).</li>
+            <li><strong>Relação com qualidade:</strong> Bit rates mais altos geralmente resultam em melhor qualidade.</li>
+            <li><strong>Teste auditivo comparativo:</strong> Vamos comparar diferentes bit rates.</li>
+        </ul>
+
+        <!-- Continuar com os outros subtemas -->
+
+        <h2>5. Conversão Digital para Analógica (D/A)</h2>
+        <ul>
+            <li><strong>O que é conversão D/A?</strong> É o processo de reproduzir sons digitais em alto-falantes ou fones de ouvido.</li>
+            <li><strong>Demonstração prática:</strong> Vamos explorar a conversão D/A com diferentes sistemas de reprodução.</li>
+        </ul>
+    </div>
+</body>
+</html>
